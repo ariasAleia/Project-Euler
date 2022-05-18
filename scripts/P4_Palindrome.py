@@ -1,3 +1,4 @@
+# Just trying some functions in python
 a = 89
 print(a)
 b = str(a)
