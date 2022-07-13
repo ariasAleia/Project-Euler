@@ -9,4 +9,7 @@ I kinda really like how this of commits and ideas and things creating themselves
 
 And now let's see how it all would work if I suddenly change my account of github directly in Linux.. I mean from the terminal. Oka, we already did it. So...
 
-Let's see how it works now
+Let's see how it works now  
+
+
+Doing one change 
