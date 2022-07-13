@@ -11,7 +11,7 @@ And now let's see how it all would work if I suddenly change my account of githu
 
 Let's see how it works now  
 
-  fg
+
 Doing one change 
 
 
