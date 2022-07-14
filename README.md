@@ -18,6 +18,15 @@ After that we can modify and add all the style and format that we want using htm
 
 ```html
 <p align="center">
+<img src= "images/euler.png" alt="Euler" title="Euler" width="150px" height="150px">
+</p>
+```
+<p align="center">
+<img src= "images/euler.png" alt="Euler" title="Euler" width="150px" height="150px">
+</p>
+
+```html
+<p align="center">
 <img src= "images/euler.png" alt="Euler" title="Euler" width="50%" height="50%">
 </p>
 ```
