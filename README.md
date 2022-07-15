@@ -51,7 +51,22 @@ Jap... Commits are the way we tell the story. But in this case, there should not
   * Add new feature
   * Replace usages of task
   
-* Say what you made, maybe why you made but don't say how you made it
+* Say what you made, why you made but don't say (at least not that much) how you made it
+
+* Leave a blank line between the subject and the body of the commit
+
+* Do not end the subject line with a period
+  
+* Capitalize the subject line
+  
+* Limit the subject line to 50 characters
+
+* Wrap the body to 72 characters. 
+
+* Sth really important: Commits must leave the total code functional (in a public branch at least).
+  
+
+Ok but what happens when we really don't know if sth will work or not or if suddenly we interrupt our code session and it's not totally working but anyway we want to save the current state? Then... Use private branches. 
 
 
-Trying new commit messages
+All this info was taken from this [video] (https://www.youtube.com/watch?v=Hlp-9cdImSM). Yep. I like when intros are cool and that's why I kept watching the video.
