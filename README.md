@@ -41,4 +41,14 @@ It seems to be quite easy. Just drop and done. :D
 https://user-images.githubusercontent.com/102924128/179136471-05c4e5c1-75b2-4539-b393-b58ea92544ab.mp4
 
 
+## Now let's talk a little bit about commits
 
+Jap... Commits are the way we tell the story. But in this case, there should not be mistery at all. Clear, direct and understandable. How? Well... Let's see how to do this.
+
+
+* Imperative mode: Titles should be read like this: If applied, this commit will:
+  * Fix bug
+  * Add new feature
+  * Replace usages of task
+  
+* Say what you made, maybe why you made but don't say how you made it
