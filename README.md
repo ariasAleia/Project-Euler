@@ -69,4 +69,4 @@ Jap... Commits are the way we tell the story. But in this case, there should not
 Ok but what happens when we really don't know if sth will work or not or if suddenly we interrupt our code session and it's not totally working but anyway we want to save the current state? Then... Use private branches. 
 
 
-All this info was taken from this [video] (https://www.youtube.com/watch?v=Hlp-9cdImSM). Yep. I like when intros are cool and that's why I kept watching the video.
+All this info was taken from this [video](https://www.youtube.com/watch?v=Hlp-9cdImSM). Yep. I like when intros are cool and that's why I kept watching the video.
