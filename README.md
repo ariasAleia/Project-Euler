@@ -34,4 +34,11 @@ After that we can modify and add all the style and format that we want using htm
 <img src= "images/euler.png" alt="Euler" title="Euler" width="50%" height="50%">
 </p>
 
+## Adding Videos to this repo
+
+It seems to be quite easy. Just drop and done. :D
+
+https://user-images.githubusercontent.com/102924128/179136471-05c4e5c1-75b2-4539-b393-b58ea92544ab.mp4
+
+
 
