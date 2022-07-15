@@ -52,3 +52,6 @@ Jap... Commits are the way we tell the story. But in this case, there should not
   * Replace usages of task
   
 * Say what you made, maybe why you made but don't say how you made it
+
+
+Trying new commit messages
